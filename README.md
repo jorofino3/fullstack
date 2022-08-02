@@ -1,4 +1,5 @@
-# Fullstack Development course created by University of Helsinki
+# Fullstack Development Course
+## Created by University of Helsinki
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
